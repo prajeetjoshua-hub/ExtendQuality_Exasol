@@ -1,0 +1,26 @@
+name: Report a reproducible problem
+description: Help improve the inspection or Exasol analytics workflow.
+title: "[Bug] "
+body:
+  - type: markdown
+    attributes:
+      value: "Please omit API keys, database credentials, private photographs and personal data."
+  - type: textarea
+    id: behavior
+    attributes:
+      label: What happened?
+      description: Describe the expected result and the actual result.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: Include the selected data source and whether model weights were configured.
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Environment
+      placeholder: "Windows version, Python, Node, Exasol version"

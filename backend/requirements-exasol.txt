@@ -1,0 +1,2 @@
+pyexasol==2.2.2
+python-dotenv>=1.1,<2

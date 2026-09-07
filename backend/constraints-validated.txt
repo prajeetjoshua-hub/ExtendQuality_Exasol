@@ -1,0 +1,16 @@
+# Observed laptop environment on 2026-09-07; not a complete transitive lock.
+fastapi==0.141.1
+starlette==1.6.0
+uvicorn==0.52.4
+python-multipart==0.0.32
+pydantic==2.13.5
+httpx==0.28.1
+pytest==8.4.2
+numpy==2.3.5
+opencv-python==5.0.0.93
+pillow==11.3.0
+ultralytics==8.4.142
+torch==2.14.0
+torchvision==0.29.0
+pyexasol==2.2.2
+python-dotenv==1.2.3

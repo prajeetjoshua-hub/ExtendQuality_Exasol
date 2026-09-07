@@ -1,0 +1,87 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+
+# testing
+/coverage
+
+# next.js
+/.next/
+/.vinext/
+/out/
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# env files (can opt-in for committing if needed)
+.env*
+!.env.example
+
+# vercel
+.vercel
+
+# typescript
+next-env.d.ts
+/dist/
+/.wrangler/
+/outputs/
+/work/
+/.demo-runtime/
+
+# Python backend
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Runtime inspection data (folder placeholders remain tracked)
+/storage/raw/*
+!/storage/raw/.gitkeep
+/storage/processed/*
+!/storage/processed/.gitkeep
+/storage/overlays/*
+!/storage/overlays/.gitkeep
+/storage/reviewed/*
+!/storage/reviewed/.gitkeep
+/storage/training_candidates/*
+!/storage/training_candidates/.gitkeep
+/storage/metadata/*
+!/storage/metadata/.gitkeep
+
+# ML model weights and training runs
+/models/weights/*
+!/models/weights/.gitkeep
+/runs/
+/Ultralytics/
+*.pt
+*.onnx
+*.engine
+
+# Exasol deployment state and private credentials
+/exasol-deployment/
+/.exasol-starter-kit/
+secrets-exasol-*.json
+*.key
+*.log
+*.db
+*.db-wal
+*.db-shm
+*.tsbuildinfo
