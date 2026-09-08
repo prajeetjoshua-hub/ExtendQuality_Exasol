@@ -15,7 +15,7 @@
 | Public repository | Public, maintained separately from the original prototype | Root repository |
 | Overview, setup and usage | Prepared | [README](../README.md) |
 | Deployment/run instructions | Prepared | [Run guide](../RUN_GUIDE.md) |
-| Clean Exasol pitch deck, PDF or PPT | Pending — prepared by the team | Will be added here |
+| Clean Exasol pitch deck, PDF or PPT | Ready — reviewed PPTX | [Pitch deck](ExtendQuality_Exasol_Pitch_Deck.pptx) |
 | Exasol demo video, max 3 minutes | Ready — 2:55, 1920×1080, 16:9 | [MP4](demo/ExtendQuality_Exasol_Demo_1080p.mp4) · [public Drive link](https://drive.google.com/file/d/1j8SUwO667vC44n2xa3ZoksK1pRTB0OCc/view?usp=sharing) |
 
 Do not mark the final submission complete until the deck and video are present and reviewed. Earlier SSN files are not substitutes.
@@ -28,7 +28,7 @@ Do not mark the final submission complete until the deck and video are present a
 | Effective Exasol use — 25% | Persistent evidence, review precedence, SQL batch/day analytics and actual integration checks |
 | Technical excellence — 20% | Durable retry, explicit data provenance, deterministic seed and regression tests |
 | Design & UX — 15% | Integrated inspection/review/dashboard flow, connection state and separate real/synthetic sources |
-| Presentation & demo — 10% | Video ready; pitch deck remains team-supplied |
+| Presentation & demo — 10% | Reviewed pitch deck and 2:55 demo video |
 | GitHub & documentation — 5% | Run guide, API, architecture, methodology, validation, contribution and security guidance |
 
 ## Rules and provenance
