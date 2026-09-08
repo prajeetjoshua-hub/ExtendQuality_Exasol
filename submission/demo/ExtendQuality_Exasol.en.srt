@@ -1,0 +1,171 @@
+1
+00:00:00,500 --> 00:00:04,540
+A defect is more than a mark on a component.
+
+2
+00:00:04,540 --> 00:00:06,101
+It is a decision.
+
+3
+00:00:06,101 --> 00:00:06,835
+A delay.
+
+4
+00:00:06,835 --> 00:00:11,242
+A question your production team needs to answer.
+
+5
+00:00:12,500 --> 00:00:13,765
+Meet ExtendQuality.
+
+6
+00:00:13,765 --> 00:00:23,314
+A connected inspection workflow that turns visual evidence into traceable decisions, and decisions into batch intelligence, powered by Exasol Personal.
+
+7
+00:00:24,500 --> 00:00:26,812
+Industry feedback sharpened our focus.
+
+8
+00:00:26,812 --> 00:00:28,942
+A bearing must be tested in motion.
+
+9
+00:00:28,942 --> 00:00:37,279
+Our next pilot targets static products: molded closures, gaskets, and stamped parts, where visible quality can be meaningfully evaluated.
+
+10
+00:00:38,500 --> 00:00:42,069
+Here is our recorded live-camera demonstration.
+
+11
+00:00:42,069 --> 00:00:45,030
+The connected phone supplies the frame.
+
+12
+00:00:45,030 --> 00:00:51,561
+Capture the bearing, run the inspection, and follow the evidence through the pipeline.
+
+13
+00:00:53,500 --> 00:00:55,635
+OpenCV measures image quality.
+
+14
+00:00:55,635 --> 00:00:57,637
+YOLO supplies visual evidence.
+
+15
+00:00:57,637 --> 00:00:59,772
+Decision rules route the result.
+
+16
+00:00:59,772 --> 00:01:06,310
+When evidence is uncertain, a vision language model can support the inspector with an explanation.
+
+17
+00:01:07,500 --> 00:01:09,471
+Human judgment stays in control.
+
+18
+00:01:09,471 --> 00:01:13,660
+Accept or reject an inspection, and the current disposition updates.
+
+19
+00:01:13,660 --> 00:01:16,493
+The original model evidence remains available.
+
+20
+00:01:16,493 --> 00:01:22,284
+Phone captures begin in review, so an unconfirmed image is never silently treated as approved.
+
+21
+00:01:23,500 --> 00:01:26,301
+Exasol Personal is the analytics platform.
+
+22
+00:01:26,301 --> 00:01:30,769
+Inspection events and review decisions flow into structured tables.
+
+23
+00:01:30,769 --> 00:01:36,704
+SQL resolves the effective disposition and aggregates results by batch, machine, and day.
+
+24
+00:01:36,704 --> 00:01:39,305
+A retry queue protects pending records.
+
+25
+00:01:40,500 --> 00:01:44,236
+Now switch to the clearly labeled synthetic demonstration.
+
+26
+00:01:44,236 --> 00:01:48,295
+Eight hundred and forty records make batch differences visible.
+
+27
+00:01:48,295 --> 00:01:55,317
+Accepted, rejected, and unresolved cases stay distinct, helping a quality lead see where to investigate next.
+
+28
+00:01:56,500 --> 00:01:58,225
+The risk engine is explainable.
+
+29
+00:01:58,225 --> 00:02:02,344
+It uses rejection and unresolved rates, with a minimum evidence threshold.
+
+30
+00:02:02,344 --> 00:02:04,069
+Daily trends highlight changes.
+
+31
+00:02:04,069 --> 00:02:09,301
+These are descriptive triage signals, not failure probabilities or remaining life predictions.
+
+32
+00:02:10,500 --> 00:02:15,720
+The opportunity: connect the inspection station to the quality conversation.
+
+33
+00:02:15,720 --> 00:02:17,643
+Which batch needs attention?
+
+34
+00:02:17,643 --> 00:02:19,291
+Which decisions changed?
+
+35
+00:02:19,291 --> 00:02:21,970
+What evidence supports the next action?
+
+36
+00:02:21,970 --> 00:02:25,266
+One connected workflow, with a traceable answer.
+
+37
+00:02:26,500 --> 00:02:36,091
+The next milestone is a manufacturer pilot: select one static product, agree defect definitions, collect representative images, and validate performance against expert inspection.
+
+38
+00:02:36,091 --> 00:02:40,270
+Calibrated dimensional measurement and automatic rejection remain future work.
+
+39
+00:02:41,500 --> 00:02:45,290
+Built for the Exasol A I and Data Challenge, twenty twenty six.
+
+40
+00:02:45,290 --> 00:02:48,718
+Explore the public repository and reproducible run guide.
+
+41
+00:02:48,718 --> 00:02:49,621
+ExtendQuality.
+
+42
+00:02:49,621 --> 00:02:52,689
+From a captured image, to a decision you can trace.
+
+43
+00:02:52,689 --> 00:02:54,313
+Let's build the next pilot.

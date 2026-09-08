@@ -34,7 +34,7 @@ Industry feedback shaped our direction: a bearing can look acceptable yet fail t
 | Existing visual prototype | OpenCV image checks, optional local bearing classifier and selective Gemini explanation |
 | New static-product model, dimensional metrology, physical rejection | **Planned — not implemented or validated** |
 
-**Submission status:** repository and run documentation are prepared. The Exasol-specific pitch deck and ≤3-minute video are pending; see the [deliverable tracker](submission/README.md). This is a working development submission, not an industrially certified product.
+**Submission status:** repository, run documentation and the ≤3-minute demo video are prepared. The pitch deck is team-supplied and remains to be added; see the [deliverable tracker](submission/README.md). This is a working development submission, not an industrially certified product.
 
 ## Exasol is the analytics platform
 
@@ -109,8 +109,6 @@ Earlier event documents remain historical material; they are not the Exasol subm
 ## Team
 
 **P Prajeet Joshua · Mohith Dharshan J · Janani Logaprabu**
-
-Mentor: **Dharaniya R**
 
 **Easwari Engineering College — Department of Computer Science and Engineering**
 

@@ -43,7 +43,7 @@ Existing visual classifier checkpoint, model limitations document, quality gates
 
 ## F. Components requiring modification
 
-Add validated batch/machine/component identity, durable local analytics outbox and explicit save status; Exasol ingestion and query modules; source filter; risk explanations; dashboard panel. Keep existing endpoints backward compatible. Restrict artifact exposure and validate model output. Extend env examples/ignores and repair reproducibility docs. New credits use only the supplied three members and mentor; historical authorship and past-event materials remain provenance.
+Add validated batch/machine/component identity, durable local analytics outbox and explicit save status; Exasol ingestion and query modules; source filter; risk explanations; dashboard panel. Keep existing endpoints backward compatible. Restrict artifact exposure and validate model output. Extend env examples/ignores and repair reproducibility docs. New credits use only the supplied three team members; historical authorship and past-event materials remain provenance.
 
 ## G. Features we should NOT build because of time
 
@@ -82,7 +82,7 @@ Measured host: Windows 11 Home build 26200, WSL 2.6.3.0/Ubuntu default version 2
 
 No .env.local, model weights, runtime .db or .log files are tracked in the baseline. Only environment variable names were inspected from the local secret file. Local storage has 122 images per raw/processed/overlay folder plus placeholders. Original photos may contain EXIF; no private image is newly made public. Broad package ranges remain a reproducibility risk; frontend lockfile is present. Historical initial commit names Codex; preserve it. Existing framework/auth/build scaffolding is not evidence of private secrets and is not deleted just to conceal AI involvement.
 
-Team: P Prajeet Joshua; Mohith Dharshan J; Janani Logaprabu. Mentor: Dharaniya R. Easwari Engineering College, Department of Computer Science and Engineering.
+Team: P Prajeet Joshua; Mohith Dharshan J; Janani Logaprabu. Easwari Engineering College, Department of Computer Science and Engineering.
 
 ## Phase 1 disposition after implementation
 
