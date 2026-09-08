@@ -36,6 +36,8 @@ Industry feedback shaped our direction: a bearing can look acceptable yet fail t
 
 **Submission status:** repository, run documentation and the ≤3-minute demo video are prepared. The pitch deck is team-supplied and remains to be added; see the [deliverable tracker](submission/README.md). This is a working development submission, not an industrially certified product.
 
+**Demo video:** [download the 2:55 MP4](submission/demo/ExtendQuality_Exasol_Demo_1080p.mp4) · [public Google Drive mirror](https://drive.google.com/file/d/1j8SUwO667vC44n2xa3ZoksK1pRTB0OCc/view?usp=sharing)
+
 ## Exasol is the analytics platform
 
 <img src="assets/exasol-data-flow.svg" alt="Capture and human review feed a local retry queue, then Exasol stores evidence and decisions and provides SQL analytics to the dashboard" width="100%">
