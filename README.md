@@ -118,6 +118,4 @@ Earlier event documents remain historical material; they are not the Exasol subm
 
 This repository starts with a snapshot import of the separate Exasol extension under the project owner's account. The original [ExtendQuality repository](https://github.com/prajeetjoshua-hub/ExtendQuality) retains its historical authorship; this import does not attribute all inherited code to the importing author. The new Exasol integration, review synchronization and analytics are documented in the [change record](CHANGELOG.md). AI assistance was used during development.
 
-The team reports that extending the prototype is permitted for its idea submission. The published challenge includes an original-work condition; the development timeline is retained transparently. See [submission requirements](submission/README.md).
-
 No remaining-life estimate, calibrated failure probability, factory accuracy, cost savings or dimensional tolerance capability is claimed. Third-party code and model rights remain with their owners; see [third-party notices](THIRD_PARTY_NOTICES.md).
